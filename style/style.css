@@ -44,8 +44,7 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    flex-direction: ;
-}
+   }
 /* top player and top blogs */
 .container{
     width: 870px;
